@@ -44,6 +44,29 @@ textarea#message{
     letter-spacing: .1px;
     border: 2px solid hsla(0,0%,100%,.2);
 }
-button.btn.contact.pointer {
+.btn.contact.pointer {
     margin: 20px 0px;
+}
+
+.spinner {
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 5px; */
+    cursor: not-allowed;
+}
+
+.alert {
+    background-color: green;
+    text-align: center;
+    padding: 5px 0;
+    font-size: 18px;
+    border-radius: 5px;
+    color: white;
+}
+.error { 
+    border: 1px solid red !important;
+}
+.succes {
+    border: 2px solid hsla(0,0%,100%,.2);
 }

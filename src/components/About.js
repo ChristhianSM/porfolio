@@ -38,7 +38,7 @@ function About() {
                 </div>
               </div>
               <div className="about__button d__flex align__items__center">
-                <a href="#">
+                <a href="https://drive.google.com/file/d/14TZm0gMjCu3wZjJiO0TmJqNV8FwUwJL1/view?usp=sharing" target="_blank" rel="noreferrer">
                   <button className="about btn pointer">Descargar Cv</button>
                 </a>
                 <a href="#Contact">
@@ -51,7 +51,7 @@ function About() {
       </div>
       {/* UP TO TOP BTN */}
       <div className="up__to__top__btn">
-        <a href="#" className="bottom__to__top">
+        <a href="/" className="bottom__to__top">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="16"
