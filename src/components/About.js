@@ -17,9 +17,6 @@ function About() {
       <div className="container">
         <div className="row">
           <div className="col__2">
-            <img src={aboutImg} alt="" className="about__img" />
-          </div>
-          <div className="col__2">
             <h1 className="about__heading">Acerca de Mi</h1>
             <div className="about__meta">
               <p className="about__text p__color">
